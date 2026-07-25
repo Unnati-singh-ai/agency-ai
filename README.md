@@ -16,9 +16,9 @@ A modern, responsive AI agency landing page built with **React.js** and **Vite**
 
 ---
 
-### 🌐 Live Demo
+## 🌐 Live Demo
 
-🚧 **Coming Soon**
+🔗 https://agency-mxasnypzp-unnati-singh-ais-projects.vercel.app/
 
 ---
 
@@ -39,7 +39,7 @@ The project focuses on responsive design, clean user interface principles, reusa
 - 🌙 Dark Mode Support
 - ⚡ Fast Performance with Vite
 - 🧩 Reusable React Components
-- 💼 Services Section
+- 💼 Services Section🎪
 - 👥 Team Showcase
 - 📞 Contact Section
 - 🖥️ Mobile Friendly Navigation
@@ -47,19 +47,45 @@ The project focuses on responsive design, clean user interface principles, reusa
 
 ---
 
-# 📸 Project Preview
+# 📸 Project Gallery
 
-> **Desktop View**
+## Home section
+<p align="center">
+<img src="./screenshots/Home.png" width="900"/>
+</p>
 
-*(Add screenshot here after deployment.)*
+
+
+## 🏠 Hero Section
+
+<p align="center">
+<img src="./screenshots/Hero.png" width="900"/>
+</p>
 
 ---
 
-> **Mobile View**
+## ⚙️ Services
 
-*(Add screenshot here.)*
+<p align="center">
+<img src="./screenshots/Service.png" width="900"/>
+</p>
 
 ---
+
+## 👥 Our work
+
+<p align="center">
+<img src="./screenshots/Work.png" width="900"/>
+</p>
+
+---
+
+## 📞 Contact
+
+<p align="center">
+<img src="./screenshots/Contact.png" width="900"/>
+</p>
+
 
 # 🛠️ Tech Stack
 
